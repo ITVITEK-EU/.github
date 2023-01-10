@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hanis03</h1>
+<h1 align="center">Hi 👋, I'm ITVITEK-EU Organization</h1>
 <h3 align="center">A developer from Czech Republic.</h3>
 
 ### Some things about me:
